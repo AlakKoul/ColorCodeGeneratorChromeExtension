@@ -1,4 +1,4 @@
-# Hex-Code-Generator-Chrome-Extension
+# Color-Code-Generator-Chrome-Extension
 This is a chrome extenstion in which you can select the color, and hex code will be generated.
 
 Follow the below Steps to install this on your chrome:
